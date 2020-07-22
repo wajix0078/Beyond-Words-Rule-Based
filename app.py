@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
 
-This is a temporary script file.
-"""
 from flask import Flask , jsonify , request , make_response
 from flask_cors import CORS
 from flask_restful import Api, Resource
